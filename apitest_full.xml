@@ -3,13 +3,8 @@
 <suite name="Suite">
   <test thread-count="1" name="Test">
     <classes>
-      <class name="restAssuredTest1.restAssuredTest">
-      <methods>
-      <include name = "getResposeData_10"/>
-      <include name = "getResposeData_10"/>
-      
-      </methods>
-      </class>
+      <class name="restAssuredTest1.restAssuredTest"/>
+       <class name="restAssuredTest1.restAssuredTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
